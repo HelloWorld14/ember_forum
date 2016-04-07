@@ -1,0 +1,9 @@
+/.bundle
+/puclic/uploads
+/.idea
+/app/assets/ember_forum/node_modules
+/config/database.yml
+/config/secrets.yml
+/log/*
+!/log/.keep
+/tmp
